@@ -1,5 +1,14 @@
 # Integration Patterns
 
+This is a quick reference. For detailed notes, see the [integration-patterns/](integration-patterns/) subfolder:
+
+- [Git Workflows](integration-patterns/git-workflows.md) - Commits, PRs, worktrees, hooks
+- [CI/CD Integration](integration-patterns/ci-cd-integration.md) - Headless mode, GitHub Actions, output formats
+- [IDE Integration](integration-patterns/ide-integration.md) - VS Code extension, complementary workflows
+- [MCP Servers](integration-patterns/mcp-servers.md) - Setup, configuration, common integrations
+
+---
+
 ## Git Workflows
 
 ### Commit Workflow

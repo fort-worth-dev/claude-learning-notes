@@ -1,5 +1,14 @@
 # Project Setup
 
+This is a quick reference. For detailed notes, see the [project-setup/](project-setup/) subfolder:
+
+- [CLAUDE.md](project-setup/claude-md.md) - Structure, content, examples, maintenance
+- [Settings Configuration](project-setup/settings-configuration.md) - Hierarchy, permissions, merging
+- [Modular Rules](project-setup/modular-rules.md) - Path-specific rules, organization patterns
+- [Hooks](project-setup/hooks.md) - Events, configuration, common patterns
+
+---
+
 ## CLAUDE.md Structure and Conventions
 
 ### What CLAUDE.md Is
